@@ -34,7 +34,9 @@
         */
 
 [3] Maven->Package
-    C:\repo\2021\HelloWorld\target>java -jar demo-0.0.1.jar
+    C:\repo\2021\BootCamp\target>java -jar demo-0.0.1.jar
+        ==> http://localhost:8080/getVersion
+        ==> http://localhost:8080/getAuthor
 
 [4] 
 
